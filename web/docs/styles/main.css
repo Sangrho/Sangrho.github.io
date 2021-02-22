@@ -1175,9 +1175,9 @@ pre code {
 
     .col-md-6 {
         -webkit-box-flex: 0;
-        -ms-flex: 0 0 50%;
-        flex: 0 0 50%;
-        max-width: 50%;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        max-width: auto;
     }
 
     .col-md-7 {
