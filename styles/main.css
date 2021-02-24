@@ -9778,6 +9778,7 @@ body {
     max-width: 600px;
     text-align: center;
     z-index: 999;
+    white-space: nowrap;
 }
 
 .ww-home-page .ww-wedding-announcement img {
